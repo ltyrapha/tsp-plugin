@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/traveling_salesman_problem" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
